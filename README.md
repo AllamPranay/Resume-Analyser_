@@ -1,4 +1,4 @@
-# Resume-Analyser_
+# Resume-Analyzer_
 # 📄 AI Resume Analyzer and Job Matcher
 
 A Streamlit web application that analyzes resumes and matches skills to popular job roles using simple text extraction and keyword-based logic.
